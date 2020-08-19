@@ -35,7 +35,7 @@ namespace Casino.BlackJack
 
                 if (bet < 0)
                 {
-                    throw new FraudException();
+                    throw new FraudException("Kicked out for fraudulent betting!");
                 }
 
                 bool successfullyBet = player.Bet(bet);
