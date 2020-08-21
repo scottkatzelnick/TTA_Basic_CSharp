@@ -1,0 +1,10 @@
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\bin\Debug\Casino.dll
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\bin\Debug\Casino.pdb
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\obj\Debug\BlackJack.csproj.CopyComplete
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Scott\Projects\repos\TTA_Basic_CSharp\BlackJack\obj\Debug\BlackJack.pdb
